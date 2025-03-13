@@ -88,9 +88,22 @@ async function fetchAllSongs() {
       }
     }
 
-    // ✅ Save metadata.json
+    // ✅ Save metadata.json locally
     await fs.writeFile("metadata.json", JSON.stringify(metadataArray, null, 2));
     console.log("✅ metadata.json generated successfully!");
+
+    // ✅ Upload metadata.json to Cloudflare R2
+    await s3
+      .upload({
+        Bucket: process.env.R2_BUCKET_NAME,
+        Key: "metadata.json",
+        Body: JSON.stringify(metadataArray, null, 2),
+        ContentType: "application/json",
+        ACL: "public-read",
+      })
+      .promise();
+
+    console.log("✅ metadata.json uploaded to Cloudflare R2!");
   } catch (error) {
     console.error("❌ Error fetching songs:", error);
   }
