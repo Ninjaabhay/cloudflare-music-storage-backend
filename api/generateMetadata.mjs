@@ -4,7 +4,7 @@ import { parseBuffer } from "music-metadata";
 import dotenv from "dotenv";
 import fs from "fs";
 
-dotenv.config(); // Load environment variables
+dotenv.config();
 
 // ✅ Configure Cloudflare R2
 const s3 = new AWS.S3({
@@ -32,13 +32,13 @@ async function fetchAllSongs() {
       const playlistName = songKey.split("/")[1];
       const songName = songKey.split("/").pop().replace(".mp3", "");
 
-      const signedUrl = s3.getSignedUrl("getObject", {
-        Bucket: process.env.R2_BUCKET_NAME,
-        Key: songKey,
-        Expires: 3600,
-      });
-
       try {
+        const signedUrl = s3.getSignedUrl("getObject", {
+          Bucket: process.env.R2_BUCKET_NAME,
+          Key: songKey,
+          Expires: 3600,
+        });
+
         const response = await axios.get(signedUrl, {
           responseType: "arraybuffer",
         });
@@ -52,7 +52,7 @@ async function fetchAllSongs() {
           name: metadata.common.title || songName,
           artist: metadata.common.artist || "Unknown Artist",
           album: metadata.common.album || "Unknown Album",
-          url: signedUrl,
+          filename: songName, // Store only filename instead of full URL
         });
       } catch (error) {
         console.error(`❌ Error reading metadata for ${songName}:`, error);
@@ -61,7 +61,7 @@ async function fetchAllSongs() {
           name: songName,
           artist: "Unknown Artist",
           album: "Unknown Album",
-          url: signedUrl,
+          filename: songName,
         });
       }
     }

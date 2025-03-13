@@ -3,7 +3,6 @@ import cors from "cors";
 import AWS from "aws-sdk";
 import fs from "fs";
 import dotenv from "dotenv";
-import axios from "axios";
 
 dotenv.config();
 
@@ -21,10 +20,10 @@ const s3 = new AWS.S3({
   signatureVersion: "v4",
 });
 
-// ✅ Initialize metadata (Prevents ReferenceError)
+// ✅ Initialize metadata
 let metadata = [];
 
-// ✅ Function to Load metadata.json from R2
+// ✅ Load metadata.json from R2
 async function loadMetadataFromR2() {
   try {
     console.log("⏳ Fetching metadata.json from Cloudflare R2...");
@@ -35,8 +34,8 @@ async function loadMetadataFromR2() {
       Expires: 3600,
     });
 
-    const response = await axios.get(signedUrl);
-    metadata = response.data;
+    const response = await fetch(signedUrl);
+    metadata = await response.json();
 
     console.log("✅ Metadata loaded from Cloudflare R2!");
   } catch (error) {
@@ -63,10 +62,21 @@ app.get("/playlists", (req, res) => {
   res.json(playlists);
 });
 
-// ✅ Get Songs from a Playlist
 app.get("/playlists/:id", (req, res) => {
-  const playlistId = req.params.id.replace("playlists/", ""); // Remove prefix
-  const playlistSongs = metadata.filter((song) => song.playlist === playlistId);
+  const playlistId = req.params.id.replace("playlists/", "");
+
+  const playlistSongs = metadata
+    .filter((song) => song.playlist === playlistId)
+    .map((song) => ({
+      ...song,
+      url: s3.getSignedUrl("getObject", {
+        Bucket: process.env.R2_BUCKET_NAME,
+        Key: `playlists/${playlistId}/${song.filename}.mp3`,
+        Expires: 3600,
+      }),
+      cover: song.cover || "default-cover.jpg", // ✅ Serve cached cover URL
+    }));
+
   res.json(playlistSongs);
 });
 

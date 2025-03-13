@@ -4,342 +4,440 @@
     "name": "Yun Hi Chala Chal - PagalNew",
     "artist": "Udit Narayan, Hariharan, Kailash Kher",
     "album": "Swades",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/A%20Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201054Z&X-Amz-Expires=3600&X-Amz-Signature=d504886ae1cdf20202ee8882d54f80e9dece6fde6271297f362889cf2d083c5b&X-Amz-SignedHeaders=host"
+    "filename": "A Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/A_Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/A%20Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054338Z&X-Amz-Expires=3600&X-Amz-Signature=a559f3d6c99299a0c9cdbd0c825f242a8138fcc686d44fad1c151739562f0faf&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "Calle Calor - Quincas Moreira",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201057Z&X-Amz-Expires=3600&X-Amz-Signature=8962714ec1491d9d5f57182a4da8ed4659e444908f3664322d4b7e196735fc3d&X-Amz-SignedHeaders=host"
+    "filename": "Calle Calor - Quincas Moreira",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054340Z&X-Amz-Expires=3600&X-Amz-Signature=248eddd2ace263d445e6fde8e48cf4a6c878da9b19401f0a9ff01b4b556b27db&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "Kal Ho Naa Ho",
     "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
     "album": "Kal Ho Naa Ho",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201058Z&X-Amz-Expires=3600&X-Amz-Signature=77d10a9277de9e5ca9ac348e9d7065503e96b34d4545590a49dac3d2b09ccd3a&X-Amz-SignedHeaders=host"
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054342Z&X-Amz-Expires=3600&X-Amz-Signature=08b86a17f6f15178d507fa4cd1856bd86f34d73a1b3136c58f65d55f32deb1ed&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "Main Hoon Na",
     "artist": "Sonu Nigam, Shreya Ghoshal",
     "album": "Main Hoon Na",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201059Z&X-Amz-Expires=3600&X-Amz-Signature=a01aa36a0541910f670a5826d79a2c43fe13720796c73eea45fad6ab20118a81&X-Amz-SignedHeaders=host"
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054344Z&X-Amz-Expires=3600&X-Amz-Signature=dfdec29a9f05e032a3646ba5a17f610bfd4e72e5737dd7fd57e5231b860b7531&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "Main Yahaan Hoon - PagalNew",
     "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
     "album": "Veer-Zaara",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201100Z&X-Amz-Expires=3600&X-Amz-Signature=b7f4d9b22a6e1425717ece8012bcb3af784ca64e0c94ff5aaf45355b8d01a591&X-Amz-SignedHeaders=host"
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054347Z&X-Amz-Expires=3600&X-Amz-Signature=6868a9a7f51e2d1927ba089a19e2309d5b1124c2ee6c698c9655da255e649edc&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "Mann Ki Lagan - PagalNew",
     "artist": "Rahat Fateh Ali Khan",
     "album": "Paap",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201102Z&X-Amz-Expires=3600&X-Amz-Signature=c208d072da0265541d30ec9a3a1334002895d9c1c53ebbb8377a0c18996d4a69&X-Amz-SignedHeaders=host"
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054350Z&X-Amz-Expires=3600&X-Amz-Signature=fdbb41e0c0855108a8cca109dab31cb23ecee2c87089c1108464afefd13a006d&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201103Z&X-Amz-Expires=3600&X-Amz-Signature=2fc58108ca64e683514cf89d5eb9f5baa582b50ad99f68141a26f92f7c8c0251&X-Amz-SignedHeaders=host"
+    "filename": "The-Night-We-Met",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054353Z&X-Amz-Expires=3600&X-Amz-Signature=b9c5e7960265a8aa356775704da37d6bd35f6bcd1b96605ce91c5f22bceca6ab&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1 - Copy",
     "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
     "artist": "Mahendra Kapoor",
     "album": "Hamraaz",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201103Z&X-Amz-Expires=3600&X-Amz-Signature=5722b6ec4ed09afaad024b8ee2f681e8d7e79c1b4723fdbe53ec8af89c7673ef&X-Amz-SignedHeaders=host"
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201%20-%20Copy/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054353Z&X-Amz-Expires=3600&X-Amz-Signature=3a909047d1eee03a94fc37d938012356f619ab666c446b7718391ffeb96c7f09&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Yun Hi Chala Chal - PagalNew",
     "artist": "Udit Narayan, Hariharan, Kailash Kher",
     "album": "Swades",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/A%20Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201105Z&X-Amz-Expires=3600&X-Amz-Signature=be830086141e2126539f0652cadcff1f7434e460e0af640f982cc7dfec02a635&X-Amz-SignedHeaders=host"
+    "filename": "A Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/A_Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/A%20Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054356Z&X-Amz-Expires=3600&X-Amz-Signature=627783c302c05121b49648445fb417325fc87fc1f5986db11acce39aa9ae6f08&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Calle Calor - Quincas Moreira",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201107Z&X-Amz-Expires=3600&X-Amz-Signature=aa78ffb3b20b15b0edaffe3e2fa18c5a9b969e979fbaa6156fe3c4a010dae74f&X-Amz-SignedHeaders=host"
+    "filename": "Calle Calor - Quincas Moreira",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054358Z&X-Amz-Expires=3600&X-Amz-Signature=1395eb657aa89bd4020106fb860e7b6e300fe164fed00790ab0b09b89fc33d93&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Kal Ho Naa Ho",
     "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
     "album": "Kal Ho Naa Ho",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201107Z&X-Amz-Expires=3600&X-Amz-Signature=dd90b16776319a1c3daf623fa381522ca018f23bd92bab21df4500a63cf440fa&X-Amz-SignedHeaders=host"
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054359Z&X-Amz-Expires=3600&X-Amz-Signature=78cf421e2453ed90949072c101453362bc333de0d2ca1fead55e94ec01d686f7&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Main Hoon Na",
     "artist": "Sonu Nigam, Shreya Ghoshal",
     "album": "Main Hoon Na",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201109Z&X-Amz-Expires=3600&X-Amz-Signature=e91876cd900d563da43951dc89984074742f952c8ae27926b6efdd456a42733d&X-Amz-SignedHeaders=host"
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054401Z&X-Amz-Expires=3600&X-Amz-Signature=0929a774eebea9c8c8bed0d9b4100a716052942212d34f3edd523cb4298fc28b&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Main Yahaan Hoon - PagalNew",
     "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
     "album": "Veer-Zaara",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201110Z&X-Amz-Expires=3600&X-Amz-Signature=66abb0640513b4ea7d1d733ca18d5f51b2536cd988e7bdec80c3960c3fba00c0&X-Amz-SignedHeaders=host"
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054404Z&X-Amz-Expires=3600&X-Amz-Signature=7bc2dbdd5e080c16d120d88a31a38398c3454d282cf9ae2b83d24f665d4d86be&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Mann Ki Lagan - PagalNew",
     "artist": "Rahat Fateh Ali Khan",
     "album": "Paap",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201111Z&X-Amz-Expires=3600&X-Amz-Signature=134140701fd234c3f2bfffbeaaef2efb4a752aa830a40e29cabc3650de0ac4e2&X-Amz-SignedHeaders=host"
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054407Z&X-Amz-Expires=3600&X-Amz-Signature=c7acf1be631a2832ca0fc1d016b13803ec482bd07dbc53066e39185675ef280d&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201113Z&X-Amz-Expires=3600&X-Amz-Signature=17cfa314ec7a2c9ef7bc9164be4f48a7a5c455c796fec6769dc2a788eb832ab4&X-Amz-SignedHeaders=host"
+    "filename": "The-Night-We-Met",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054409Z&X-Amz-Expires=3600&X-Amz-Signature=a3d2f7c1bc55549eee688d55e63d57e0b6a324e901394cc3a9a2255585e8ae6b&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 1",
     "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
     "artist": "Mahendra Kapoor",
     "album": "Hamraaz",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201113Z&X-Amz-Expires=3600&X-Amz-Signature=725e8bd7167af0a9cdc650c99fbdfe485fa15c68684c1f0ad4c99b6810a44618&X-Amz-SignedHeaders=host"
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%201/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054409Z&X-Amz-Expires=3600&X-Amz-Signature=e1f2e6aaee031e752abc1bd707a85122dd54b03779730d9209660cc55b41e489&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Kal Ho Naa Ho",
     "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
     "album": "Kal Ho Naa Ho",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201114Z&X-Amz-Expires=3600&X-Amz-Signature=a4fa1b668d59f616ec03f3b7c9c3b765114b63578548aac0e989859b3185e2db&X-Amz-SignedHeaders=host"
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054412Z&X-Amz-Expires=3600&X-Amz-Signature=48c5589ad82a90c4289f72e55ec8f41f20007a148f9bd3884b84de6e0dee76b0&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Main Hoon Na",
     "artist": "Sonu Nigam, Shreya Ghoshal",
     "album": "Main Hoon Na",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201116Z&X-Amz-Expires=3600&X-Amz-Signature=aa44afbf79b2a497dc2497ce558f48053098269285c9fb67b898c8f95647b17a&X-Amz-SignedHeaders=host"
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054414Z&X-Amz-Expires=3600&X-Amz-Signature=08afe928472324a32be24f2b1983221836d28a185bdaad0b207de985f5780fd7&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Main Yahaan Hoon - PagalNew",
     "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
     "album": "Veer-Zaara",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201117Z&X-Amz-Expires=3600&X-Amz-Signature=6d902deca6e5bb5fade07942e3a5d1039cf274561ef9455243a5f13ab0aeddc1&X-Amz-SignedHeaders=host"
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054416Z&X-Amz-Expires=3600&X-Amz-Signature=dbf755bad90c5cf60887ec2c071fd177358e628e79d6177c2b91b45b90a1088a&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Mann Ki Lagan - PagalNew",
     "artist": "Rahat Fateh Ali Khan",
     "album": "Paap",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201118Z&X-Amz-Expires=3600&X-Amz-Signature=f011b4c6b2327a1340aaa1741da096db01824a75131b5e5ead4f34294a2cbabf&X-Amz-SignedHeaders=host"
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054419Z&X-Amz-Expires=3600&X-Amz-Signature=46a5efc3c91a6fe0b5edca7c9757effe48f3498af554bfa9cbca658b851cb6bf&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Mitwa - PagalNew",
     "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
     "album": "Kabhi Alvida Naa Kehna",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201119Z&X-Amz-Expires=3600&X-Amz-Signature=042401c4fcb3b46335acd8021baae96b5c1c911ab18e675cd9ec12ffab884c12&X-Amz-SignedHeaders=host"
+    "filename": "Mitwa Kabhi Alvida Naa Kehna 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mitwa_Kabhi_Alvida_Naa_Kehna_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054421Z&X-Amz-Expires=3600&X-Amz-Signature=020e70dc3feb1db5e0a8589a8e093442e208d30c3e6e8192452fe7034a33bcb2&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201121Z&X-Amz-Expires=3600&X-Amz-Signature=f8df527dfa5e3b7ea2b7d45d412cca23eec2dbdd93200cc7acaededf4e306cfc&X-Amz-SignedHeaders=host"
+    "filename": "The-Night-We-Met",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054423Z&X-Amz-Expires=3600&X-Amz-Signature=fbd74f72ec86f54188e465f69bd27b5f798b974a3d2f3379174f00aa8c9e7b4c&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
     "artist": "Mahendra Kapoor",
     "album": "Hamraaz",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201122Z&X-Amz-Expires=3600&X-Amz-Signature=674ea5d2618e84dfa1833dffd3b83a4887e4c92d5f9161ae1850bfba0a9e814a&X-Amz-SignedHeaders=host"
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054424Z&X-Amz-Expires=3600&X-Amz-Signature=bd6da74ae76f1cf6ebd458eef2b0e48d46d3d03a0d5202f9638e94c5ca0947ba&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2 - Copy",
     "name": "Yun Hi Chala Chal - PagalNew",
     "artist": "Udit Narayan, Hariharan, Kailash Kher",
     "album": "Swades",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201123Z&X-Amz-Expires=3600&X-Amz-Signature=8973dc2e712b8bfd401b3cdd471d125ce9ff8901d05c164307ee24100a57f7dc&X-Amz-SignedHeaders=host"
+    "filename": "Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202%20-%20Copy/Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054426Z&X-Amz-Expires=3600&X-Amz-Signature=c87fc20dc888661633ae4e1cb665a7e967234507c102773a1337385469f25769&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Kal Ho Naa Ho",
     "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
     "album": "Kal Ho Naa Ho",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201126Z&X-Amz-Expires=3600&X-Amz-Signature=5a32549a659a053cce5f4cadc9799d645e483274f8215ecce25be990820d9469&X-Amz-SignedHeaders=host"
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054429Z&X-Amz-Expires=3600&X-Amz-Signature=ef6d644db1278981465a5df765bd6df4c7475fc94290b3570970de949d183166&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Main Hoon Na",
     "artist": "Sonu Nigam, Shreya Ghoshal",
     "album": "Main Hoon Na",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201127Z&X-Amz-Expires=3600&X-Amz-Signature=89c0eaf6d9d559fa1c3b066ca81b921460c4c548c97ae7ac7d8613e88644ea87&X-Amz-SignedHeaders=host"
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054431Z&X-Amz-Expires=3600&X-Amz-Signature=15c647379e2007ff5be22e6b24d1ef9f5fa23ebdbff1d2eb47649ec4af8c29b9&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Main Yahaan Hoon - PagalNew",
     "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
     "album": "Veer-Zaara",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201128Z&X-Amz-Expires=3600&X-Amz-Signature=bcdefec7def631177f4e14e0ec37ac807ab9d0e6bdc243237e2ace9f768dcbfe&X-Amz-SignedHeaders=host"
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054433Z&X-Amz-Expires=3600&X-Amz-Signature=5514cad822c00e53e15621ee351e0c8df386eef54d0f58f553bb4fbf8aed9c9b&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Mann Ki Lagan - PagalNew",
     "artist": "Rahat Fateh Ali Khan",
     "album": "Paap",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201130Z&X-Amz-Expires=3600&X-Amz-Signature=d57183afe4ada0a8b914bd3a0c58516a297ac87a38552f1e28f224f1b9afdf09&X-Amz-SignedHeaders=host"
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054436Z&X-Amz-Expires=3600&X-Amz-Signature=702de3a7719e1b937787e7e50d04c3d44e3297ff760f9f0b0203fcc4437f325e&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Mitwa - PagalNew",
     "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
     "album": "Kabhi Alvida Naa Kehna",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201132Z&X-Amz-Expires=3600&X-Amz-Signature=66ba875a2808606c98b430beabb4e8b27f9902872310944309bd98db133504d6&X-Amz-SignedHeaders=host"
+    "filename": "Mitwa Kabhi Alvida Naa Kehna 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mitwa_Kabhi_Alvida_Naa_Kehna_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054438Z&X-Amz-Expires=3600&X-Amz-Signature=e47054760f5f1dd320ae943465a117b7f4172b5295c7e0f12553eed1f1ebaace&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201134Z&X-Amz-Expires=3600&X-Amz-Signature=03fb5efc89d6423b7c7d1a7f24920f81455b2fb1197f7326216b58e341209d92&X-Amz-SignedHeaders=host"
+    "filename": "The-Night-We-Met",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054440Z&X-Amz-Expires=3600&X-Amz-Signature=6fa8c3bd24024fe91000ddfe12aa26b5933750e4c785a147d19e15d02bd04531&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
     "artist": "Mahendra Kapoor",
     "album": "Hamraaz",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201134Z&X-Amz-Expires=3600&X-Amz-Signature=dd5197e941a797735db999f5b107ab1b7594efefa940e9abf9e87df8670d0bad&X-Amz-SignedHeaders=host"
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054440Z&X-Amz-Expires=3600&X-Amz-Signature=41b9d3819da9b2d624477a776d40b83a0ff90c394fe3bdbf819ba064193863e4&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 2",
     "name": "Yun Hi Chala Chal - PagalNew",
     "artist": "Udit Narayan, Hariharan, Kailash Kher",
     "album": "Swades",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201136Z&X-Amz-Expires=3600&X-Amz-Signature=90a103b85cbab7f6e951ddea9a0d8e3da85dba30dc5e0596a59d0ff27823ab98&X-Amz-SignedHeaders=host"
+    "filename": "Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%202/Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054443Z&X-Amz-Expires=3600&X-Amz-Signature=2d0ae0dd6cf334fb6fad84910c7f50866d61db15bab46306c13a4f2abb13e4d8&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Calle Calor - Quincas Moreira",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201138Z&X-Amz-Expires=3600&X-Amz-Signature=4a3ca1a20d01154cf8065213a908523f4b4aaa75bcaa73ca926f51742a93a7f6&X-Amz-SignedHeaders=host"
+    "filename": "Calle Calor - Quincas Moreira",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054446Z&X-Amz-Expires=3600&X-Amz-Signature=2d918d8754e0a48c82dcefb142af1051549369d1e095fddca5ae45bebebce95a&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Kal Ho Naa Ho",
     "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
     "album": "Kal Ho Naa Ho",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201139Z&X-Amz-Expires=3600&X-Amz-Signature=3a4c3479c5ccb5d656a8bc505fee1717c1b8e090e4da314c346667c4dd6ccdfe&X-Amz-SignedHeaders=host"
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054447Z&X-Amz-Expires=3600&X-Amz-Signature=16d0291551e9c2b1234146b8626dd2e32f49cb9fc3fab2d7fc7716e73e3f0376&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Main Hoon Na",
     "artist": "Sonu Nigam, Shreya Ghoshal",
     "album": "Main Hoon Na",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201141Z&X-Amz-Expires=3600&X-Amz-Signature=011ef7bd5fa073cb5f7bafa5458bf90972b662a63dbfa6ee323c8af6b6b42244&X-Amz-SignedHeaders=host"
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054449Z&X-Amz-Expires=3600&X-Amz-Signature=393ae40ecab46a96f1b326acba679684565a5fec7bd72354ae155490ff0bd840&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Main Yahaan Hoon - PagalNew",
     "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
     "album": "Veer-Zaara",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201142Z&X-Amz-Expires=3600&X-Amz-Signature=2c4bdd6800cbc6386fba26493551a03ca2e1c3d7fc2fe4b77c1801bb1ac3a6b2&X-Amz-SignedHeaders=host"
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054452Z&X-Amz-Expires=3600&X-Amz-Signature=72db11b0cad1969ffa0190e333e55d7c85e827572963e90bdcf4b7aa5aaebb1e&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Mann Ki Lagan - PagalNew",
     "artist": "Rahat Fateh Ali Khan",
     "album": "Paap",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201143Z&X-Amz-Expires=3600&X-Amz-Signature=07486b0611975857f228570834c6fba7f55ef581608ddbed17fbfbfec1bcba47&X-Amz-SignedHeaders=host"
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054454Z&X-Amz-Expires=3600&X-Amz-Signature=ece03b658eb06d43a79a2d2ade53cb944b24962c99d55e8a027322a74c03bea8&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Mitwa - PagalNew",
     "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
     "album": "Kabhi Alvida Naa Kehna",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201144Z&X-Amz-Expires=3600&X-Amz-Signature=d64371fd26a470ca4703e2c1c47b3721917f0a94220b39b248239e6b3272910a&X-Amz-SignedHeaders=host"
+    "filename": "Mitwa Kabhi Alvida Naa Kehna 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mitwa_Kabhi_Alvida_Naa_Kehna_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054456Z&X-Amz-Expires=3600&X-Amz-Signature=0b41672517edbb854a88d97843c3351b89da99ff349aa8ba063ba7cc74087c47&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201146Z&X-Amz-Expires=3600&X-Amz-Signature=c344d5b78208d72450257842a58c09c8fe439a1fc6401fe4d2afb2f3e8912ff0&X-Amz-SignedHeaders=host"
+    "filename": "The-Night-We-Met",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054459Z&X-Amz-Expires=3600&X-Amz-Signature=8677f0347168aa6602f2e4b200b59e68b6303395f60a909daac4759b76959d95&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3 - Copy",
     "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
     "artist": "Mahendra Kapoor",
     "album": "Hamraaz",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201146Z&X-Amz-Expires=3600&X-Amz-Signature=e4b165d38283cd7f10cdaf199348061b2c1a3a4c3294caec6a4f8c3d00ef35ba&X-Amz-SignedHeaders=host"
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203%20-%20Copy/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054500Z&X-Amz-Expires=3600&X-Amz-Signature=f440cd685979e5dd9657f95a1c1d1c4737c128baf01492f957b917018b30c75e&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Calle Calor - Quincas Moreira",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201148Z&X-Amz-Expires=3600&X-Amz-Signature=c2e553622002881cb1afed7b1386873442fb4118f0ce4cad4dda07fe788a5cdb&X-Amz-SignedHeaders=host"
+    "filename": "Calle Calor - Quincas Moreira",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Calle%20Calor%20-%20Quincas%20Moreira.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054502Z&X-Amz-Expires=3600&X-Amz-Signature=6eb60ee855b5390b7b1822ac1d81cfcd179b2fc95717b0a037c98f3bb2709f9d&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Kal Ho Naa Ho",
     "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
     "album": "Kal Ho Naa Ho",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201149Z&X-Amz-Expires=3600&X-Amz-Signature=e76c5224ef9706e2a37d98eb67e1f9a53835e19d0d47f2de2afe13f1c249db10&X-Amz-SignedHeaders=host"
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Kal%20Ho%20Naa%20Ho%20-%20Kal%20Ho%20Naa%20Ho%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054503Z&X-Amz-Expires=3600&X-Amz-Signature=52b3ea1b5c6f0e419508ad4c411f70ded12464ddbfe2f9cab8e968aedcc0aeda&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Main Hoon Na",
     "artist": "Sonu Nigam, Shreya Ghoshal",
     "album": "Main Hoon Na",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201150Z&X-Amz-Expires=3600&X-Amz-Signature=9e05c37ec26f581c04fe1df11217dc80ab213090374ac3190ceb28f145d4d450&X-Amz-SignedHeaders=host"
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Main%20Hoon%20Na%20-%20Main%20Hoon%20Na%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054505Z&X-Amz-Expires=3600&X-Amz-Signature=c497f6f4bc34a580d44f92506725a85bff7d1f9104ded3ecd5b72698b896de76&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Main Yahaan Hoon - PagalNew",
     "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
     "album": "Veer-Zaara",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201151Z&X-Amz-Expires=3600&X-Amz-Signature=2c9b0fd8f451b7085582060244bf77f64357a005647257e94d9e9abc89a3be34&X-Amz-SignedHeaders=host"
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Main%20Yahaan%20Hoon%20Veer%20Zaara%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054507Z&X-Amz-Expires=3600&X-Amz-Signature=3e934aeda20ec64f41b75f74d981f84601508baa209bb17b0e023aa8b9883b45&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Mann Ki Lagan - PagalNew",
     "artist": "Rahat Fateh Ali Khan",
     "album": "Paap",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201152Z&X-Amz-Expires=3600&X-Amz-Signature=40c37155463581c41b57d2e1660a0d8ec0b10a0ee10b7fa8e337af4e14978254&X-Amz-SignedHeaders=host"
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Mann%20Ki%20Lagan%20Paap%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054509Z&X-Amz-Expires=3600&X-Amz-Signature=ec8e633a32799cae388efea927fbc4752ac23d78bf03ca54e329003d3ba29b26&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Mitwa - PagalNew",
     "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
     "album": "Kabhi Alvida Naa Kehna",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201154Z&X-Amz-Expires=3600&X-Amz-Signature=965e0cb46c65478282c1f8b50ace6cec723702471a02ed973deba9619adff006&X-Amz-SignedHeaders=host"
+    "filename": "Mitwa Kabhi Alvida Naa Kehna 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mitwa_Kabhi_Alvida_Naa_Kehna_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Mitwa%20Kabhi%20Alvida%20Naa%20Kehna%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054511Z&X-Amz-Expires=3600&X-Amz-Signature=07dffec09e7732f7adee53ce6b32ab3366203ecea3b77fdc992cf4935c5df6f9&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
     "artist": "Unknown Artist",
     "album": "Unknown Album",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201155Z&X-Amz-Expires=3600&X-Amz-Signature=03e04eaece33b768025ff5af65484a69b5a96a292d4828a3bc561d1e09a00b60&X-Amz-SignedHeaders=host"
+    "filename": "The-Night-We-Met",
+    "cover": null,
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/The-Night-We-Met.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054514Z&X-Amz-Expires=3600&X-Amz-Signature=efcc05c95eec665886e4ef0f203d721ba1ef7f2eee89a9ef4e551138df3a9a08&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
     "artist": "Mahendra Kapoor",
     "album": "Hamraaz",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201155Z&X-Amz-Expires=3600&X-Amz-Signature=3a655ee84f508c96f8bd56c4435e8180b46a442afd1f659aceb156b96de0c511&X-Amz-SignedHeaders=host"
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Tum%20Agar%20Saath%20Dene%20Ka%20Vada%20Karo%20Hamraaz%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054515Z&X-Amz-Expires=3600&X-Amz-Signature=2d945f338f47b05f80b2a8de779a67b5d3108534342933b507f1433a36165445&X-Amz-SignedHeaders=host"
   },
   {
     "playlist": "Play 3",
     "name": "Yun Hi Chala Chal - PagalNew",
     "artist": "Udit Narayan, Hariharan, Kailash Kher",
     "album": "Swades",
-    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250312%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250312T201157Z&X-Amz-Expires=3600&X-Amz-Signature=90c3082afc069fb4cec6663721530b8fc4b2b3b948fb4863554a25cb3651d260&X-Amz-SignedHeaders=host"
+    "filename": "Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg",
+    "url": "https://audio-files-bucket.f6b00b11cbb8c07c79fce5b256692ad5.r2.cloudflarestorage.com/playlists/Play%203/Yun%20Hi%20Chala%20Chal%20Swades%20320%20Kbps.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=d41fceeefdb8674ef588a135b1c0762b%2F20250313%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250313T054517Z&X-Amz-Expires=3600&X-Amz-Signature=2d5672991a6df8e23d0bc2ae4cc6b949f57be1684081477f7113f80149ab69f3&X-Amz-SignedHeaders=host"
   }
 ]
