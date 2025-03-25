@@ -1,6 +1,5 @@
 import express from "express";
 import cors from "cors";
-import AWS from "aws-sdk";
 import dotenv from "dotenv";
 
 dotenv.config();
@@ -10,22 +9,13 @@ const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 
-// ✅ Configure Cloudflare R2 (For Signed URLs)
-const s3 = new AWS.S3({
-  endpoint: new AWS.Endpoint(process.env.R2_ENDPOINT),
-  accessKeyId: process.env.R2_ACCESS_KEY,
-  secretAccessKey: process.env.R2_SECRET_KEY,
-  region: "auto",
-  signatureVersion: "v4",
-});
-
-// ✅ Public R2 URL from .env (Used for metadata & cover images)
-const PUBLIC_R2_URL = process.env.PUBLIC_R2_URL;
+// ✅ Use Public R2 URL from .env
+const PUBLIC_R2_URL = process.env.PUBLIC_R2_URL; // e.g., "https://pub-xxxxxxxxxxxxxxxxxxx.r2.dev"
 
 // ✅ Initialize metadata
 let metadata = [];
 
-// ✅ Load metadata.json from Public R2 URL
+// ✅ Load metadata.json directly from public URL (No S3 needed)
 async function loadMetadata() {
   try {
     console.log("⏳ Fetching metadata.json from Cloudflare R2...");
@@ -58,7 +48,7 @@ app.get("/playlists", (req, res) => {
   res.json(playlists);
 });
 
-// ✅ Get Songs from a Playlist (Using Signed URLs)
+// ✅ Get Songs from a Playlist (Using Public URLs)
 app.get("/playlists/:id", (req, res) => {
   const playlistId = req.params.id.replace("playlists/", "");
 
@@ -66,26 +56,22 @@ app.get("/playlists/:id", (req, res) => {
     .filter((song) => song.playlist === playlistId)
     .map((song) => ({
       ...song,
-      url: s3.getSignedUrl("getObject", {
-        Bucket: process.env.R2_BUCKET_NAME,
-        Key: `playlists/${playlistId}/${song.filename}.mp3`,
-        Expires: 3600, // 🔥 Signed URL expires in 1 hour
-      }),
-      cover: song.cover || "default-cover.jpg", // ✅ Use public URL for covers
+      url: `${PUBLIC_R2_URL}/playlists/${encodeURIComponent(
+        playlistId
+      )}/${encodeURIComponent(song.filename)}.mp3`, // ✅ Direct Public URL
+      cover: song.cover || "default-cover.jpg",
     }));
 
   res.json(playlistSongs);
 });
 
-// ✅ Get All Songs (Using Signed URLs)
+// ✅ Get All Songs (Using Public URLs)
 app.get("/all-songs", (req, res) => {
   const allSongs = metadata.map((song) => ({
     ...song,
-    url: s3.getSignedUrl("getObject", {
-      Bucket: process.env.R2_BUCKET_NAME,
-      Key: `playlists/${song.playlist}/${song.filename}.mp3`,
-      Expires: 3600, // 🔥 1-hour signed URL
-    }),
+    url: `${PUBLIC_R2_URL}/playlists/${encodeURIComponent(
+      song.playlist
+    )}/${encodeURIComponent(song.filename)}.mp3`,
   }));
 
   res.json(allSongs);
