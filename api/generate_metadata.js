@@ -7,6 +7,9 @@ import path from "path";
 
 dotenv.config();
 
+// ✅ Cloudflare R2 Public Bucket URL
+const PUBLIC_R2_URL = "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev";
+
 // ✅ Configure Cloudflare R2
 const s3 = new AWS.S3({
   endpoint: new AWS.Endpoint(process.env.R2_ENDPOINT),
@@ -15,9 +18,6 @@ const s3 = new AWS.S3({
   region: "auto",
   signatureVersion: "v4",
 });
-
-// ✅ Your Cloudflare R2 **PUBLIC BUCKET URL** (Change this to match your setup)
-const PUBLIC_R2_URL = "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev";
 
 async function fetchAllSongs() {
   try {
@@ -32,18 +32,15 @@ async function fetchAllSongs() {
       const songKey = file.Key;
       const songName = path.basename(songKey, ".mp3");
 
-      // ✅ Generate a signed URL for the song (valid for 1 hour)
-      const signedUrl = s3.getSignedUrl("getObject", {
-        Bucket: process.env.R2_BUCKET_NAME,
-        Key: songKey,
-        Expires: 3600, // 1 hour expiration
-      });
-
       try {
         console.log(`🎵 Processing: ${songName}`);
 
+        // ✅ Public URL for song (handled by backend now)
+        const encodedSongKey = encodeURIComponent(songKey);
+
         // ✅ Fetch the song file to read metadata
-        const response = await axios.get(signedUrl, {
+        const songUrl = `${PUBLIC_R2_URL}/${encodedSongKey}`;
+        const response = await axios.get(songUrl, {
           responseType: "arraybuffer",
         });
         const metadata = await parseBuffer(
@@ -68,12 +65,12 @@ async function fetchAllSongs() {
             })
             .promise();
 
-          // ✅ Use **PUBLIC R2 URL** instead of S3 signed URL
+          // ✅ Use public URL for cover image
           coverUrl = `${PUBLIC_R2_URL}/covers/${safeCoverName}`;
           console.log(`🖼️ Cover uploaded: ${coverUrl}`);
         }
 
-        // ✅ Store metadata in JSON
+        // ✅ Store metadata (without URL)
         metadataArray.push({
           playlist: songKey.split("/")[1], // Extract playlist name
           name: metadata.common.title || songName,
@@ -81,7 +78,6 @@ async function fetchAllSongs() {
           album: metadata.common.album || "Unknown Album",
           filename: songName,
           cover: coverUrl, // ✅ Store **public** cover URL
-          url: signedUrl, // ✅ Store **signed** song URL
         });
       } catch (error) {
         console.error(`❌ Error reading metadata for ${songKey}:`, error);

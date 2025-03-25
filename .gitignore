@@ -1,6 +1,6 @@
 .env
 node_modules
-old_server.js
+junk
 .vercel
 serviceAccountKey.json
 service-account-key.json

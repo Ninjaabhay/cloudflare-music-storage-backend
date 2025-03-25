@@ -1,7 +1,5 @@
 import express from "express";
 import cors from "cors";
-import AWS from "aws-sdk";
-import fs from "fs";
 import dotenv from "dotenv";
 
 dotenv.config();
@@ -11,40 +9,28 @@ const PORT = process.env.PORT || 3000;
 
 app.use(cors());
 
-// ✅ Configure Cloudflare R2
-const s3 = new AWS.S3({
-  endpoint: new AWS.Endpoint(process.env.R2_ENDPOINT),
-  accessKeyId: process.env.R2_ACCESS_KEY,
-  secretAccessKey: process.env.R2_SECRET_KEY,
-  region: "auto",
-  signatureVersion: "v4",
-});
+// ✅ Use Public R2 URL from .env
+const PUBLIC_R2_URL = process.env.PUBLIC_R2_URL; // e.g., "https://pub-xxxxxxxxxxxxxxxxxxx.r2.dev"
 
 // ✅ Initialize metadata
 let metadata = [];
 
-// ✅ Load metadata.json from R2
-async function loadMetadataFromR2() {
+// ✅ Load metadata.json directly from public URL (No S3 needed)
+async function loadMetadata() {
   try {
     console.log("⏳ Fetching metadata.json from Cloudflare R2...");
 
-    const signedUrl = s3.getSignedUrl("getObject", {
-      Bucket: process.env.R2_BUCKET_NAME,
-      Key: "metadata.json",
-      Expires: 3600,
-    });
-
-    const response = await fetch(signedUrl);
+    const response = await fetch(`${PUBLIC_R2_URL}/metadata.json`);
     metadata = await response.json();
 
-    console.log("✅ Metadata loaded from Cloudflare R2!");
+    console.log("✅ Metadata loaded successfully!");
   } catch (error) {
-    console.error("❌ Failed to load metadata.json from R2:", error);
+    console.error("❌ Failed to load metadata.json:", error);
   }
 }
 
 // ✅ Call function on startup
-await loadMetadataFromR2();
+await loadMetadata();
 
 // ✅ Home Route
 app.get("/", (req, res) => {
@@ -62,6 +48,7 @@ app.get("/playlists", (req, res) => {
   res.json(playlists);
 });
 
+// ✅ Get Songs from a Playlist (Using Public URLs)
 app.get("/playlists/:id", (req, res) => {
   const playlistId = req.params.id.replace("playlists/", "");
 
@@ -69,15 +56,25 @@ app.get("/playlists/:id", (req, res) => {
     .filter((song) => song.playlist === playlistId)
     .map((song) => ({
       ...song,
-      url: s3.getSignedUrl("getObject", {
-        Bucket: process.env.R2_BUCKET_NAME,
-        Key: `playlists/${playlistId}/${song.filename}.mp3`,
-        Expires: 3600,
-      }),
-      cover: song.cover || "default-cover.jpg", // ✅ Serve cached cover URL
+      url: `${PUBLIC_R2_URL}/playlists/${encodeURIComponent(
+        playlistId
+      )}/${encodeURIComponent(song.filename)}.mp3`, // ✅ Direct Public URL
+      cover: song.cover || "default-cover.jpg",
     }));
 
   res.json(playlistSongs);
+});
+
+// ✅ Get All Songs (Using Public URLs)
+app.get("/all-songs", (req, res) => {
+  const allSongs = metadata.map((song) => ({
+    ...song,
+    url: `${PUBLIC_R2_URL}/playlists/${encodeURIComponent(
+      song.playlist
+    )}/${encodeURIComponent(song.filename)}.mp3`,
+  }));
+
+  res.json(allSongs);
 });
 
 // ✅ Start Server
