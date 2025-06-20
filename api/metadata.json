@@ -390,5 +390,205 @@
     "album": "Swades",
     "filename": "Yun Hi Chala Chal Swades 320 Kbps",
     "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg"
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Yun Hi Chala Chal - PagalNew",
+    "artist": "Udit Narayan, Hariharan, Kailash Kher",
+    "album": "Swades",
+    "filename": "A Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/A_Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg"
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Calle Calor - Quincas Moreira",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "filename": "Calle Calor - Quincas Moreira",
+    "cover": null
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Kal Ho Naa Ho",
+    "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+    "album": "Kal Ho Naa Ho",
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg"
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Main Hoon Na",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "album": "Main Hoon Na",
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg"
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Main Yahaan Hoon - PagalNew",
+    "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
+    "album": "Veer-Zaara",
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg"
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Mann Ki Lagan - PagalNew",
+    "artist": "Rahat Fateh Ali Khan",
+    "album": "Paap",
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg"
+  },
+  {
+    "playlist": "demo 2",
+    "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "filename": "The-Night-We-Met",
+    "cover": null
+  },
+  {
+    "playlist": "demo 2",
+    "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
+    "artist": "Mahendra Kapoor",
+    "album": "Hamraaz",
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Calle Calor - Quincas Moreira",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "filename": "Calle Calor - Quincas Moreira",
+    "cover": null
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Kal Ho Naa Ho",
+    "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+    "album": "Kal Ho Naa Ho",
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Main Hoon Na",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "album": "Main Hoon Na",
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Main Yahaan Hoon - PagalNew",
+    "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
+    "album": "Veer-Zaara",
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Mann Ki Lagan - PagalNew",
+    "artist": "Rahat Fateh Ali Khan",
+    "album": "Paap",
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Mitwa - PagalNew",
+    "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "album": "Kabhi Alvida Naa Kehna",
+    "filename": "Mitwa Kabhi Alvida Naa Kehna 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mitwa_Kabhi_Alvida_Naa_Kehna_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "filename": "The-Night-We-Met",
+    "cover": null
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
+    "artist": "Mahendra Kapoor",
+    "album": "Hamraaz",
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg"
+  },
+  {
+    "playlist": "new playlist",
+    "name": "Yun Hi Chala Chal - PagalNew",
+    "artist": "Udit Narayan, Hariharan, Kailash Kher",
+    "album": "Swades",
+    "filename": "Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Kal Ho Naa Ho",
+    "artist": "Shankar-Ehsaan-Loy, Sonu Nigam",
+    "album": "Kal Ho Naa Ho",
+    "filename": "Kal Ho Naa Ho - Kal Ho Naa Ho 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Kal_Ho_Naa_Ho___Kal_Ho_Naa_Ho_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Main Hoon Na",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "album": "Main Hoon Na",
+    "filename": "Main Hoon Na - Main Hoon Na 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Hoon_Na___Main_Hoon_Na_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Main Yahaan Hoon - PagalNew",
+    "artist": "Udit Narayan, Madan Mohan, Javed Akhtar",
+    "album": "Veer-Zaara",
+    "filename": "Main Yahaan Hoon Veer Zaara 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Main_Yahaan_Hoon_Veer_Zaara_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Mann Ki Lagan - PagalNew",
+    "artist": "Rahat Fateh Ali Khan",
+    "album": "Paap",
+    "filename": "Mann Ki Lagan Paap 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mann_Ki_Lagan_Paap_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Mitwa - PagalNew",
+    "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "album": "Kabhi Alvida Naa Kehna",
+    "filename": "Mitwa Kabhi Alvida Naa Kehna 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Mitwa_Kabhi_Alvida_Naa_Kehna_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "X2Download.app - Lord Huron - The Night We Met (Official Audio)",
+    "artist": "Unknown Artist",
+    "album": "Unknown Album",
+    "filename": "The-Night-We-Met",
+    "cover": null
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Tum Agar Saath Dene Ka Vada Karo - PagalNew",
+    "artist": "Mahendra Kapoor",
+    "album": "Hamraaz",
+    "filename": "Tum Agar Saath Dene Ka Vada Karo Hamraaz 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Tum_Agar_Saath_Dene_Ka_Vada_Karo_Hamraaz_320_Kbps.jpg"
+  },
+  {
+    "playlist": "songs for you",
+    "name": "Yun Hi Chala Chal - PagalNew",
+    "artist": "Udit Narayan, Hariharan, Kailash Kher",
+    "album": "Swades",
+    "filename": "Yun Hi Chala Chal Swades 320 Kbps",
+    "cover": "https://pub-e63479089c2b4fc5bcf14148e30297eb.r2.dev/covers/Yun_Hi_Chala_Chal_Swades_320_Kbps.jpg"
   }
 ]
